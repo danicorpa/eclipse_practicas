@@ -11,6 +11,9 @@
 	<list key="CommitDialog.committerValues">
 		<item value="danicorpa &lt;daniel.martin385@educa.madrid.org&gt;"/>
 	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="file:///home/xdmc0001/eclipse-workspace"/>
+	</list>
 	<section name="org.eclipse.egit.ui.internal.repository.CreateBranchPage$SourceSelectionDialog.dialogBounds">
 		<item key="DIALOG_X_ORIGIN" value="5"/>
 		<item key="DIALOG_Y_ORIGIN" value="-101"/>
@@ -33,14 +36,7 @@
 	</section>
 	<section name="GitCommitMessageComponent">
 		<list key="/home/xdmc0001/eclipse-workspace/.git">
-			<item value="false"/>
-			<item value="danicorpa &lt;daniel.martin385@educa.madrid.org&gt;"/>
-			<item value="First commit"/>
-			<item value="danicorpa &lt;daniel.martin385@educa.madrid.org&gt;"/>
-			<item value="3d64e0d5b00adbe4538a9d5f0be12fa030c24723"/>
-			<item value="0"/>
-			<item value="false"/>
-			<item value=""/>
+			<item value="empty"/>
 		</list>
 		<list key="/home/xdmc0001/eclipse-workspace/ProyectoEclipse/.git">
 			<item value="false"/>
@@ -70,5 +66,35 @@
 		<item key="DIALOG_WIDTH" value="532"/>
 		<item key="DIALOG_HEIGHT" value="478"/>
 		<item key="DIALOG_FONT_NAME" value="1|Sans|9.0|0|GTK|1|"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.RebaseTargetSelectionDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="459"/>
+		<item key="DIALOG_Y_ORIGIN" value="81"/>
+		<item key="DIALOG_WIDTH" value="528"/>
+		<item key="DIALOG_HEIGHT" value="524"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|9.0|0|GTK|1|"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.RenameBranchDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="459"/>
+		<item key="DIALOG_Y_ORIGIN" value="112"/>
+		<item key="DIALOG_WIDTH" value="528"/>
+		<item key="DIALOG_HEIGHT" value="478"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|9.0|0|GTK|1|"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.dialogs.MergeTargetSelectionDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="459"/>
+		<item key="DIALOG_Y_ORIGIN" value="0"/>
+		<item key="DIALOG_WIDTH" value="528"/>
+		<item key="DIALOG_HEIGHT" value="662"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|9.0|0|GTK|1|"/>
+	</section>
+	<section name="org.eclipse.egit.ui.internal.merge.MergeResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="513"/>
+		<item key="DIALOG_Y_ORIGIN" value="298"/>
+		<item key="DIALOG_WIDTH" value="420"/>
+		<item key="DIALOG_HEIGHT" value="198"/>
+		<item key="DIALOG_FONT_NAME" value="1|Sans|9.0|0|GTK|1|"/>
+	</section>
+	<section name="FetchGerritChangePage">
 	</section>
 </section>

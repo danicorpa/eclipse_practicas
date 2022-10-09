@@ -1,6 +1,7 @@
 //BranchProjectTracker__/home/xdmc0001/.git_main=<?xml version\="1.0" encoding\="UTF-8"?>\n<projects>\n<project>/eclipse-workspace/ProyectoEclipse</project>\n</projects>
 //repository_push_settings_/home/xdmc0001/eclipse-workspace/.git=true;true
-commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>practicas&\#x0A;&\#x0A;Signed-off-by\: danicorpa &lt;daniel.martin385@educa.madrid.org&gt;</message>\n</messages>
+StagingView_ShowNewCommits=true
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\n<messages>\n<message>Commit</message>\n<message>FIRST COMMIT&\#x0A;</message>\n<message>first commit&\#x0A;</message>\n<message>practicas&\#x0A;&\#x0A;Signed-off-by\: danicorpa &lt;daniel.martin385@educa.madrid.org&gt;</message>\n</messages>
 eclipse.preferences.version=1
 resourcehistory_graph_split=500,500
 resourcehistory_rev_split=700,300
